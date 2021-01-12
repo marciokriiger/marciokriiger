@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcio Kriiger</h1>
 <h3 align="center">A Brazilian IT student who found a purpose on programming</h3>
 
-- 🔭 I’m currently working on [DS Deliver](https://github.com/marciokriiger/dsdeliver-sds2) live version here [here](https://marcio-kriiger-sds2.netlify.app)
+- :man_technologist: I’m currently looking for a job oportunity 
+
+- 🔭 I’m currently working on [DS Deliver](https://github.com/marciokriiger/dsdeliver-sds2), live version here [here](https://marcio-kriiger-sds2.netlify.app)
 
 - 🌱 I’m currently learning **ReactJS, React Native**
 
