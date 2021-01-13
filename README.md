@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcio Kriiger</h1>
 <h3 align="center">A Brazilian IT student who found a purpose on programming</h3>
+</br>
 
 - :man_technologist: I’m currently looking for a job oportunity 
 
@@ -7,11 +8,11 @@
 
 - 🌱 I’m currently learning **ReactJS, React Native**
 
-- 📫 How to reach me **marciovonkriiger@gmail.com**
+- 📫 How to reach me: **marciovonkriiger@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marciokriiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marciokriiger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marciokriiger" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marciokriiger" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
