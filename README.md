@@ -4,9 +4,9 @@
 
 - 💻 I’m currently in search for a job oportunity, my web cv is [here](https://marciokriiger.github.io)
 
-- 🔭 I’m working on [DS Deliver](https://github.com/marciokriiger/dsdeliver-sds2), live version [here](https://marcio-kriiger-sds2.netlify.app)
+- 🔭 My last project was [DS Deliver](https://github.com/marciokriiger/dsdeliver-sds2), live version [here](https://marcio-kriiger-sds2.netlify.app)
 
-- 🌱 I’m learning **ReactJS, React Native**
+- 🌱 I’m training **Java EE with JSF and Primefaces**
 
 - 📫 How to reach me **marciovonkriiger@gmail.com**
 
