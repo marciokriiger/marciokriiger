@@ -2,11 +2,7 @@
 <h3 align="center">A Brazilian IT student who found a purpose in programming</h3>
 </br>
 
-- 💻 I’m currently in search for a job oportunity, my portfolio web is [here](https://marciokriiger.github.io)
-
-- 🔭 My last project was [DS Deliver](https://github.com/marciokriiger/dsdeliver-sds2), live version [here](https://marcio-kriiger-sds2.netlify.app)
-
-- 🌱 I’m training **Java EE with JSF and Primefaces**
+- 💻 You can check my portfolio [here](https://marciokriiger.github.io)
 
 - 📫 How to reach me **marciovonkriiger@gmail.com**
 
