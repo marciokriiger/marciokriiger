@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Marcio Kriiger</h1>
-<h3 align="center">A Brazilian IT student who found a purpose in programming</h3>
+<h1 align="left">Hi 👋, I'm Marcio Kriiger</h1>
+<h3 align="left">A Brazilian IT student who found a purpose in programming</h3>
 </br>
 
 - 💻 You can check my portfolio [here](https://marciokriiger.github.io)
 
-- 📫 How to reach me **marciovonkriiger@gmail.com**
+- 📫 How to reach me: **marciovonkriiger@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
