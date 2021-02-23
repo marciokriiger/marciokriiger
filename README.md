@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Marcio Kriiger</h1>
-<h3 align="left">A Brazilian IT student who believes in the great potential that technology has to improve people's lives</h3>
+<h1 align="center">Hi 👋, I'm Marcio Kriiger</h1>
+<h3 align="center">A Brazilian IT student who believes in the great potential that technology has to improve people's lives</h3>
 </br>
 
 - 💻 You can check my portfolio [here](https://marciokriiger.github.io)
