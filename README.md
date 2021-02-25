@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marcio</h1>
-<h3 align="center">Undergraduate IT student and web developer</h3>
+<h1 align="left">Hi 👋, I'm Marcio</h1>
+<h3 align="left">Undergraduate IT student and web developer</h3>
 
 - 🌱 I’m currently learning: **Elixir**
 
